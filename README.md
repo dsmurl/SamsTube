@@ -2,9 +2,10 @@
 
 To run:
 
- * clone from github
+ * git clone
  * npm install
  * npm start
+ * Browser to localhost:8080
 
 Based off YouTube and it's public API, this is a simple YouTube front end implementation in ReactJs.  It's based off UDemy course called React-Redux.
 
