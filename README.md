@@ -2,7 +2,7 @@
 
 To run:
 
- * git clone
+ * git clone git@github.com:dsmurl/SamsTube.git
  * npm install
  * npm start
  * Browser to localhost:8080
